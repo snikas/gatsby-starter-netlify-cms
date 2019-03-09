@@ -4,8 +4,7 @@ title: My Pretty Blanket Ladder
 date: 2019-03-09T15:04:10.000Z
 description: I made this
 tags:
-  - flavor
-  - tasting
+  - ladders
 ---
 ![flavor wheel](/img/511nwfj21il._sl1000_.jpg)
 
